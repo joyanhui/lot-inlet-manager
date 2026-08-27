@@ -1,0 +1,32 @@
+// 人类可读参考产物（creat.ts 生成）；程序消费请解析同名 .pd（protobuf）。
+{
+  "version": 1,
+  "revision": 1,
+  "urls": {
+    "a": {
+      "url": "https://lot-webui-a.leiyanhui.com"
+    },
+    "b": {
+      "url": "https://lot-webui-b.leiyanhui.com"
+    }
+  },
+  "inlets": {
+    "a": {
+      "url": "http://lot-inlet-a.leiyanhui.com/webui-inlet.pd"
+    },
+    "b": {
+      "url": "http://lot-inlet-b.leiyanhui.com/webui-inlet.pd"
+    },
+    "c": {
+      "url": "http://lot-inlet-sim-and-txtfile.oss-cn-hangzhou.aliyuncs.com/webui-inlet.pd"
+    },
+    "d": {
+      "url": "http://lot-inlet-sim-and-txtfile-1300834997.cos.ap-guangzhou.myqcloud.com/webui-inlet.pd"
+    }
+  },
+  "inlet_dev": {
+    "a": {
+      "url": "http://192.168.1.101:19999/webui-inlet.pd"
+    }
+  }
+}

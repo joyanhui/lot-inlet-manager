@@ -1,0 +1,15 @@
+(
+a#
+!https://lot-webui-a.leiyanhui.com(
+b#
+!https://lot-webui-b.leiyanhui.com"6
+a1
+/http://lot-inlet-a.leiyanhui.com/webui-inlet.pd"6
+b1
+/http://lot-inlet-b.leiyanhui.com/webui-inlet.pd"S
+cN
+Lhttp://lot-inlet-sim-and-txtfile.oss-cn-hangzhou.aliyuncs.com/webui-inlet.pd"_
+dZ
+Xhttp://lot-inlet-sim-and-txtfile-1300834997.cos.ap-guangzhou.myqcloud.com/webui-inlet.pd*0
+a+
+)http://192.168.1.101:19999/webui-inlet.pd

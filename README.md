@@ -1,2 +1,3 @@
-1 copy from: https://github.com/joyanhui/lot-manager-aio/tree/main/m4-1-inlet-manager \n 
-2 auto sync by: https://github.com/joyanhui/lot-manager-aio/tree/main/.github/workflows/sync-lot-inlet-manager.yml
+1 copy from: lot-manager-aio/tree/main/m0-2-inlet-manager/ForPublic
+2 auto sync by: lot-Project/.github/workflows/inlet-creat-and-sysnc.yml
+2 save in ${TARGET_REPO} 
