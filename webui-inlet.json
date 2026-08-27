@@ -1,1 +1,30 @@
-{"version":1,"revision":1,"urls":{"a":{"url":"https://lot-webui-a.leiyanhui.com"},"b":{"url":"https://lot-webui-b.leiyanhui.com"}},"inlets":{"a":{"url":"http://lot-inlet-a.leiyanhui.com/webui-inlet.json"},"b":{"url":"http://lot-inlet-b.leiyanhui.com/webui-inlet.json"},"c":{"url":"http://lot-inlet-sim-and-txtfile.oss-cn-hangzhou.aliyuncs.com/webui-inlet.json"},"d":{"url":"http://lot-inlet-sim-and-txtfile-1300834997.cos.ap-guangzhou.myqcloud.com/webui-inlet.json"}},"inlet_dev":{"a":{"url":"http://192.168.1.101:19999/webui-inlet.json"}}}
+{
+  "version": 1,
+  "urls": {
+    "a": {
+      "url": "https://lot-webui-a.leiyanhui.com"
+    },
+    "b": {
+      "url": "https://lot-webui-b.leiyanhui.com"
+    }
+  },
+  "inlets": {
+    "a": {
+      "url": "http://lot-inlet-a.leiyanhui.com/webui-inlet.json"
+    },
+    "b": {
+      "url": "http://lot-inlet-b.leiyanhui.com/webui-inlet.json"
+    },
+    "c": {
+      "url": "http://lot-inlet-sim-and-txtfile.oss-cn-hangzhou.aliyuncs.com/webui-inlet.json"
+    },
+    "d": {
+      "url": "http://lot-inlet-sim-and-txtfile-1300834997.cos.ap-guangzhou.myqcloud.com/webui-inlet.json"
+    }
+  },
+  "inlet_dev": {
+    "a": {
+      "url": "http://192.168.1.101:19999/webui-inlet.json"
+    }
+  }
+}
