@@ -8,6 +8,24 @@
       "url": "https://lot-webui-b.leiyanhui.com"
     }
   },
+  "urls_dev": {
+    "a": {
+      "url": "https://192.168.1.101:19000"
+    }
+  },
+  "update_urls": {
+    "a": {
+      "url": "https://lot-webui-a.leiyanhui.com/download/manifest.json"
+    },
+    "b": {
+      "url": "https://lot-webui-b.leiyanhui.com/download/manifest.json"
+    }
+  },
+  "update_urls_dev": {
+    "a": {
+      "url": "http://192.168.1.101:19000/download/manifest.json"
+    }
+  },
   "inlets": {
     "a": {
       "url": "http://lot-inlet-a.leiyanhui.com/webui-inlet.json"
