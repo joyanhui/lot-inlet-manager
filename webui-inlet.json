@@ -5,7 +5,7 @@
       "url": "https://lot-webui-a.leiyanhui.com"
     },
     "b": {
-      "url": "https://lot-webui-b.leiyanhui.com"
+      "url": "https://lot-frontend-b.leiyanhui.com/web-ui"
     }
   },
   "urls_dev": {
@@ -15,15 +15,15 @@
   },
   "update_urls": {
     "a": {
-      "url": "https://lot-webui-a.leiyanhui.com/download/manifest.json"
+      "url": "https://lot-webui-a.leiyanhui.com/download/webui-manifest.json"
     },
     "b": {
-      "url": "https://lot-webui-b.leiyanhui.com/download/manifest.json"
+      "url": "https://lot-frontend-b.leiyanhui.com/web-ui/download/webui-manifest.json"
     }
   },
   "update_urls_dev": {
     "a": {
-      "url": "http://192.168.1.101:19000/download/manifest.json"
+      "url": "http://192.168.1.101:19000/download/webui-manifest.json"
     }
   },
   "inlets": {
