@@ -2,7 +2,7 @@
   "version": 1,
   "urls": {
     "a": {
-      "url": "https://lot-webui-a.leiyanhui.com"
+      "url": "https://lot-frontend-a.leiyanhui.com"
     },
     "b": {
       "url": "https://lot-frontend-b.leiyanhui.com/web-ui"
@@ -15,7 +15,7 @@
   },
   "update_urls": {
     "a": {
-      "url": "https://lot-webui-a.leiyanhui.com/download/webui-manifest.json"
+      "url": "https://lot-frontend-a.leiyanhui.com/download/webui-manifest.json"
     },
     "b": {
       "url": "https://lot-frontend-b.leiyanhui.com/web-ui/download/webui-manifest.json"
